@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-12-14"
-categories: [news]
+title: "Why This Blog Exists"
+author: "SE Gyges"
+date: "2023-12-17"
+categories: [blog-meta]
 ---
 
-This is the first post in a Quarto blog. Welcome!
-
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Blog exists to contain things I find myself repeating and technical writeups (if any).

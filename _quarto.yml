@@ -3,14 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "blog"
+  title: "SE Gyges Blog"
   navbar:
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/segyges
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/segyges
 format:
   html:
     theme: slate

@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "SE Gyges Blog"
 listing:
   contents: posts
   sort: "date desc"
